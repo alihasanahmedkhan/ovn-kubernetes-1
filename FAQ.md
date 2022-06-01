@@ -44,6 +44,6 @@ that is part of the K8s cluster.
       port 6642 (for OVN Southbound OVSDB Server)
       port 6643 (when using RAFT and is required for NB RAFT control plane)
       port 6644 (when using RAFT and is required for SB RAFT control plane)
-      port 9476 (prometheus port to export ovn DB metrics)
+      port 9477 (prometheus port to export ovn DB metrics)
     ```
  
